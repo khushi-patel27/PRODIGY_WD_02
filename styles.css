@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .stopwatch {
+    max-width: 400px;
+    margin: auto;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .display {
+    font-size: 3rem;
+  }
+  
+  .display-text {
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .controls button {
+    font-size: 1.2rem;
+  }
+  
+  .lap-time {
+    font-size: 1rem;
+  }
+
+  
